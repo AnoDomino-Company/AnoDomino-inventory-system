@@ -55,3 +55,5 @@ Please review our contribution guidelines before submitting any changes.
 **Anollian Mushi - Lead Developer, AnoDomino Company**
 
 This project is developed and maintained by Anollian Mushi for AnoDomino Company. For inquiries, custom modules, or professional support, please reach out via GitHub or company email.
+
+**Beyond Limits**
