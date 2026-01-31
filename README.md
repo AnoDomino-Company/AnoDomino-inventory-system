@@ -26,17 +26,20 @@ If you don't feel like reading, Laracasts can help. Laracasts contains thousands
 
 
 **📜 License**
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4 0) license.
+**Commercial use is not permitted.**
 
-**Under this license, you are free to:**
+Under this license, you are allowed to:
+-Use, copy, and modify the software
+-Share the software for noncommercial purposes
+-Use it internally for personal, educational, or organizational needs
+-Under the following conditions:
+-Noncommercial Use Only — You may not sell, license, or offer this software (or derivatives) as part of a paid product or service without explicit permission from AnoDomino Company.
 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
-Under the following terms:
-
-Attribution — You must give appropriate credit to Anollian Mushi (AnoDomino Company)
-NonCommercial — You may not use the material for commercial purposes without explicit permission
+Attribution — You must retain the original copyright notice and give appropriate credit to Anollian Mushi (AnoDomino Company).
+No Warranty — The software is provided “as is”, without warranty of any kind.
+For the full license text, see the LICENSE file in this repository.
 
 **🔒 Security Vulnerabilities**
 
