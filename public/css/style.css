@@ -1,0 +1,84 @@
+/* Global */
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Brand Colors */
+.text-primary {
+    color: rgb(24, 18, 68) !important; /* Brand Blue */
+}
+
+.bg-primary {
+    background-color: rgb(24, 18, 68) !important; /* Brand Blue */
+}
+
+.text-accent {
+    color: rgb(203, 143, 47) !important; /* Brand Gold */
+}
+
+.bg-accent {
+    background-color: rgb(203, 143, 47) !important; /* Brand Gold */
+}
+
+.text-grey {
+    color: #cac4bb !important;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgb(24, 18, 68) !important; /* Brand Blue navbar */
+}
+
+.navbar .nav-link {
+    color: #ffffff !important;
+    transition: color 0.3s;
+}
+
+.navbar .nav-link:hover {
+    color: rgb(203, 143, 47) !important; /* Gold hover */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: rgb(203, 143, 47); /* Brand Gold */
+    color: #ffffff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: rgb(180, 125, 40); /* Slightly darker gold */
+    color: #ffffff;
+}
+
+/* Tables */
+.table thead {
+    background-color: rgb(24, 18, 68); /* Brand Blue */
+    color: #ffffff;
+}
+
+.table-striped tbody tr:nth-child(odd) {
+    background-color: #f8f8f8;
+}
+
+/* Forms */
+.form-control {
+    border-radius: 0.25rem;
+}
+
+/* Flash Messages */
+.alert-success {
+    background-color: rgba(203, 143, 47, 0.15); /* Gold tint */
+    color: rgb(24, 18, 68);
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    color: #721c24;
+}
